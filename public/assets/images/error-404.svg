@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Background Circle -->
+  <circle cx="400" cy="300" r="250" fill="#F0F4FF"/>
+  
+  <!-- 404 Text -->
+  <text x="400" y="280" font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="#4880FF" text-anchor="middle">404</text>
+  
+  <!-- Sad Face -->
+  <circle cx="400" cy="380" r="60" fill="#FF6B35" opacity="0.2"/>
+  <circle cx="380" cy="370" r="8" fill="#202224"/>
+  <circle cx="420" cy="370" r="8" fill="#202224"/>
+  <path d="M 370 400 Q 400 390 430 400" stroke="#202224" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- Magnifying Glass -->
+  <circle cx="550" cy="200" r="40" fill="none" stroke="#4880FF" stroke-width="6"/>
+  <line x1="580" y1="230" x2="610" y2="260" stroke="#4880FF" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Location Pin -->
+  <path d="M 250 200 C 250 180 270 160 290 160 C 310 160 330 180 330 200 C 330 230 290 270 290 270 C 290 270 250 230 250 200 Z" fill="#FF6B35"/>
+  <circle cx="290" cy="200" r="10" fill="#fff"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="150" cy="150" r="15" fill="#4880FF" opacity="0.3"/>
+  <circle cx="650" cy="450" r="20" fill="#FF6B35" opacity="0.3"/>
+  <circle cx="200" cy="450" r="12" fill="#4880FF" opacity="0.3"/>
+  <circle cx="600" cy="150" r="18" fill="#FF6B35" opacity="0.3"/>
+</svg>
